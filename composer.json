@@ -12,7 +12,7 @@
 		"wiki": "https://aimeos.org/docs"
 	},
 	"provide": {
-		"aimeos/ai-controller-frontend": "dev-master || 2021.07.2"
+		"aimeos/ai-controller-frontend": "dev-master || 2021.07.*"
 	},
 	"prefer-stable": true,
 	"minimum-stability": "dev",
