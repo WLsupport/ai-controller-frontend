@@ -11,14 +11,11 @@
 		"forum": "https://aimeos.org/help",
 		"wiki": "https://aimeos.org/docs"
 	},
-	"provide": {
-		"aimeos/ai-controller-frontend": "dev-master || dev-kbs24 || 2021.07.*"
-	},
 	"prefer-stable": true,
 	"minimum-stability": "dev",
 	"require": {
 		"php": "~7.1||~8.0",
-		"aimeos/aimeos-core": "dev-kbs24"
+		"aimeos/aimeos-core": "dev-master"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~7.0||~8.0||~9.0"
